@@ -33,7 +33,7 @@ else
 fi
 
 # Setup environment
-DEFCONFIG="courbet_defconfig"
+DEFCONFIG="lineage_on7xelte_defconfig"
 SECONDS=0 # builtin bash timer
 ZIPNAME="Iris-7870-Samsung-$(date '+%Y%m%d-%H%M').zip"
 export PROC="-j8"
